@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Raleway|Press+Start+2P');
+body {
+  background: #d5e2d8;
+  font-family: 'Raleway', sans-serif;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+a {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #0bedde;
+  font-size: 1.3em;
+}
+
+.fullContainer {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  line-height: 100px;
+  background: #f4a142;
+}
+
+.headerText{
+  font-weight: bold;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 38px;
+  /* padding: 5%; */
+
+}
+.header img{
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  z-index: -1;
+}
+
+.sidebar {
+  color: #fff;
+  padding: 1%;
+  float: left;
+  height: 100vh;
+  width: 20%;
+  margin-top: 2%;
+  background: #4b8e48;
+  position: absolute;
+}
+
+.sidebar h5 {
+  color: #eef442;
+}
+
+.sidebar h3 {
+  font-weight: bold;
+  color: #000;
+}
+
+.pingform {
+  margin-top: 1%;
+}
+
+.btn-custom {
+  background: #db6f04;
+  color: #fff;
+}
+
+.formContainer {
+  margin-top: 2%;
+  margin-left: 23%;
+}
+
+.resultsOutput {
+  margin-left: 20%;
+}
+
+.numbersList {
+  margin-left: 5%;
+}
+/* .backheader{
+  height: 5%;
+  background-image: url('../img/header2.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+} */

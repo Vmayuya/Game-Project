@@ -12,8 +12,8 @@ function pingpong(startPoint) {
 
 
 $(document).ready(function() {
-  $('#curry').click(function(event) {
-    var userNumber = parseInt($('input#carry').val());
+  $('#submit').click(function(event) {
+    var userNumber = parseInt($('input#number').val());
     event.preventDefault();
     $('ul.numbersList').empty();
     for (var startPoint = 1; startPoint <= userNumber; startPoint += 1) {
@@ -21,4 +21,3 @@ $(document).ready(function() {
     }
   });
 });
-..................................
