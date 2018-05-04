@@ -8,7 +8,7 @@ This is a web application that takes a number from a user and returns a range of
   * Numbers divisible by 15 are replaced with "pingpong"
 A user should be able to enter a new number and see new results over and over again. The results from the previous run should be cleared before the new results are posted.
 ## Setup/Installation Requirements
-* This webpage can be viewed at
+* This webpage can be viewed at https://vmayuya.github.io/Game-Project/
 ## Specifications
 * INPUT
   * An integer example 10.
